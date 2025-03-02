@@ -69,3 +69,15 @@ dependencies/
 # Ignore test output
 /test-output/
 /test-results/
+
+PetAdoptionSystem/
+├── .gitignore
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── PetAdoptionSystem.java
+│   └── test/
+│       └── java/
+│           └── PetAdoptionSystemTest.java
+├── README.md
+└── pom.xml (if using Maven)
